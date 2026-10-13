@@ -1,0 +1,10 @@
+# Do not accidentally publish raw, unlicensed or private files
+*PRIVATE*.pdf
+*私人*.pdf
+*.ttc
+*.otf
+*.ttf
+.DS_Store
+__pycache__/
+*.pyc
+private/
